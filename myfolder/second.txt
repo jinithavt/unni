@@ -1,2 +1,9 @@
 second
 
+
+
+
+text after reset --hard 0ed6839
+
+
+

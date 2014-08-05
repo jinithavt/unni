@@ -1,13 +1,8 @@
 second
 
 
-<<<<<<< HEAD
+
+first edit after resetting
 
 
-text after reset --hard 0ed6839
-
-
-=======
-edited second time
->>>>>>> e0b674bb3e97a6e7e83a74f473ce58f2da76674c
 
